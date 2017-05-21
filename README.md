@@ -8,12 +8,14 @@ monitoring program from simplehydro to farm because I got tired of typing simple
 
 ![equipment.jpg](equipment.jpg)
 
+![data/2017-05-13_09.30.00.jpg](data/2017-05-13_09.30.00.jpg)
+
 ## Equipment & Supplies
 
 1. Computer and camera: Raspberry Pi Zero W with the Raspberry Pi camera module v2.
 
 3. Camera mount and accessories: JOBY Action Clamp & GorillaPod Arm, SmallRig Camera Cheese Bar,
-   a generic ND4 & ND8 neutral density filters, and small cable ties.
+   generic ND4 & ND8 neutral density filters, and small cable ties.
 
 2. Temperature sensing: Arduino Uno clone with two DS18B20 1-Wire temperature sensors--one suspended
    in the air above the AeroGarden, and one taped to the outside of the tank below water level.
@@ -83,7 +85,7 @@ monitoring program from simplehydro to farm because I got tired of typing simple
    or two per day. When I ended the experiment, the final harvest was 7 grams.
 
    This was my final harvest:
-   ![2017-05-19_15.30.00.jpg](2017-05-19_15.30.00.jpg)
+   ![2017-05-19_15.30.00.jpg](data/2017-05-19_15.30.00.jpg)
 
 ## License: CC BY-SA 4.0
 
