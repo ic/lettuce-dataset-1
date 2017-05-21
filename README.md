@@ -65,7 +65,7 @@ monitoring program from simplehydro to farm because I got tired of typing simple
    30 minutes past the hour, and only when there was enough light to see the AeroGarden. To further
    reduce the image size, I removed thumbnail previews with
    `exiftool -ifd1:all= -ext jpg .`
-   and by cropping them with
+   and cropped them with
    `mogrify -crop 854x480+62+58 *.jpg`
    to show only the portion of the frame where lettuce was growing.
 
