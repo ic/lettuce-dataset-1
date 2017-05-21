@@ -6,9 +6,9 @@ This is the data that I collected using
 salad greens that I grew from 17 April 2017 to 19 May 2017. Along the way, I changed the name of my
 monitoring program from simplehydro to farm because I got tired of typing simplehydro.
 
-    ![equipment.jpg](equipment.jpg)
+![equipment.jpg](equipment.jpg)
 
-    ![data/2017-05-13_09.30.00.jpg](data/2017-05-13_09.30.00.jpg)
+![data/2017-05-13_09.30.00.jpg](data/2017-05-13_09.30.00.jpg)
 
 ## Equipment & Supplies
 
